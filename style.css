@@ -1115,7 +1115,7 @@ input:-webkit-autofill:focus {
     background: linear-gradient(45deg, rgba(72, 44, 191, 1) 0%, rgba(106, 198, 240, 1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#482cbf', endColorstr='#6ac6f0', GradientType=1);
     color: #ffffff;
-    padding: 180px 0 120px;
+    padding: 0px 0 80px;
 }
 
 .site-header a {
